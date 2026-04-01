@@ -101,10 +101,5 @@ Where to get API keys:
 python .\test_shadowtrace.py
 ```
 
-## Project Files
-
-- `shadowtrace.py`: main CLI app
-- `test_shadowtrace.py`: test script
-- `ShadowTrace_config.json`: runtime config (API keys, output folder, timeout, user-agent)
 
 
